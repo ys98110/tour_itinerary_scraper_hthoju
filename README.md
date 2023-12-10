@@ -1,7 +1,8 @@
 # Tour Itinerary Scraper from Hanatour website
 
 I created this to help out with the internal operations during my time in HT Hoju.<br>
-It was quickly created for a very specific purpose. 
+It extracts itinearary information from Hanatour.com. <br>
+It was quickly created for a very specific internal purpose. 
 
 
 ## Set Up
