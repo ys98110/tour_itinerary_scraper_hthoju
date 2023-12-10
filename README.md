@@ -1,7 +1,7 @@
 # Tour Itinerary Scraper from Hanatour website
 
 I created this to help out with the internal operations during my time in HT Hoju.<br>
-It is created for a very specific purpose. 
+It was quickly created for a very specific purpose. 
 
 
 ## Set Up
