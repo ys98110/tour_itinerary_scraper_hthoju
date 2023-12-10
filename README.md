@@ -16,7 +16,7 @@ I've designed it so that it works on google colab for it to be used by everyone 
 Firstly, run the first cell to install the necessary packages.<br>
 Then, enter the tour code (eg. PAP221231107KEY) and then enter the regions you want the itinerary for in Korean. <br>
 So for example, if the tour goes to Gold Coast and Sydney but you only want the itinerary for Sydney one, you would only enter Sydney. If both: Sydney,GoldCoast. In Korean it is 시드니,골드코스트<br>
-Then you run the all the cell and excel files with itineraries will be automatically downloaded. <br>
+Then you run the all the cell and excel files with itineraries will be automatically downloaded. You may need to allow multiple files to be downaloded at once.<br>
 <br>
 
 ## Further details on how to use it
