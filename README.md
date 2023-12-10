@@ -8,7 +8,7 @@ It is created for a very specific purpose.
 1. Install Insomnia.
 2. Then go to any of Hanatour.com website and go into any itinerary.
 3. Copy the address
-4. Put it in Insomnia to generate cookie details to put in the header in the 4th cell. (Might need to do some research on how to do this. It's a post request and inspect the page's API for further info as the site may change.)
+4. Put it in Insomnia to generate cookie details to put in the header in the 4th cell. (Might need to do some research on how to do this. It's a post request and inspect Hanatour page's API for further info as the site may change.)
 
 ## How to use it
 I've designed it so that it works on google colab for it to be used by everyone in the office without having me to set up their computers individually. <br>
