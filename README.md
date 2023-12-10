@@ -17,7 +17,7 @@ Firstly, run the first cell to install the necessary packages.<br>
 Then, enter the tour code (eg. PAP221231107KEY) and then enter the regions you want the itinerary for in Korean. <br>
 So for example, if the tour goes to Gold Coast and Sydney but you only want the itinerary for Sydney one, you would only enter Sydney. If both: Sydney,GoldCoast. In Korean it is 시드니,골드코스트<br>
 Then when you run all the cells, excel files with itineraries will be automatically downloaded. You may need to allow multiple files to be downaloded at once.<br>
-I have uploaded an example of the itinerary files for reference. Please note that it is mostly in Korean as this is a company consisting mostly if not all, Koreean speaking employees. 
+I have uploaded an example of the itinerary files for reference. Please note that the primary language is Korean, as the company is predominantly, if not entirely, composed of Korean speakers.
 <br>
 
 ## Further details on how to use it
