@@ -11,7 +11,7 @@ It was quickly created for a very specific purpose.
 4. Put it in Insomnia to generate cookie details to put in the header in the 4th cell. (Might need to do some research on how to do this. It's a post request and inspect Hanatour page's API for further info as the site may change.)
 
 ## How to use it
-I've designed it so that it works on google colab for it to be used by everyone in the office without having me to set up their computers individually. <br>
+I've designed it so that it works on google colab for it to be used by everyone in the office without having me to set up their computers individually and also that I can implement any changes quickly. <br>
 
 Firstly, run the first cell to install the necessary packages.<br>
 Then, enter the tour code (eg. PAP221231107KEY) and then enter the regions you want the itinerary for in Korean. <br>
